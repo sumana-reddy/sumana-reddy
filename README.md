@@ -22,7 +22,9 @@ Published Paper: https://www.ijrte.org/wp-content/uploads/papers/v7i6/F295503761
 -	SQL, MySQL, PostgreSQL.
 -	IDE – JDK, Eclipse, NetBeans.
 
-
+## Connections:
+1. LinkedIn:https://www.linkedin.com/in/sumana-reddy-reddybathula-71ab51203/
+1. GitHub: https://github.com/sumana-reddy
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
