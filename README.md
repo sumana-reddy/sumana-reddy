@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi, I'm Sumana Reddy. Pursued Master's degree in Applied Computer Science at Northwest Missouri State University. And I have done my Undergraduation in Computer Science in KL University, Vijayawada. My major is "Cyber Security" and have had hands on in cyber algorithms and written a new algorithm for both encryption, decryption and published my paper in International Journel. Have Hands on creating and maintain Jira stories both in Scrum and Kanban. Enact delivery upon completion of projects and ensure that delivery adheres to agile practices maintained in the curriculum.
-
 ## Collaboration:
 - GitHub Profile : https://github.com/sumana-reddy
 
